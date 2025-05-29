@@ -65,14 +65,13 @@ Also install `nlfitr` and `nplyr` if they are custom or from GitHub:
 If you use this code, please cite:
 
 **Comprehensive analysis of proteome turnover dynamics during T cell exhaustion**  
-(Authors list, Journal, Year, DOI or link if available)
 
 ## License
 
-MIT License (or specify your lab's preferred license)
+MIT License 
 
 ## Contact
 
-Maintained by: Dr. Michael Bauer  
+Maintained by: Michael Bauer  
 Department of Biomedical Informatics  
 University of Arkansas for Medical Sciences
