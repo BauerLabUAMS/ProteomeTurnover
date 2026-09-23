@@ -3,7 +3,7 @@
 This repository contains R scripts and supporting files used for analyzing proteome turnover using SILAC-labeled mass spectrometry data. The core analysis estimates peptide degradation rates over time using nonlinear curve fitting, enabling comparisons across biological conditions (e.g., acute vs chronic T-cell exhaustion).
 
 > 📝 **This analysis was used in the manuscript:  
-> _Comprehensive analysis of proteome turnover dynamics during T cell exhaustion._**
+> _Proteomic Atlas of T-Cell Exhaustion Defines Proteostatic Collapse._**
 
 ## Overview
 
@@ -64,7 +64,7 @@ Also install `nlfitr` and `nplyr` if they are custom or from GitHub:
 
 If you use this code, please cite:
 
-**Comprehensive analysis of proteome turnover dynamics during T cell exhaustion**  
+**Proteomic Atlas of T-Cell Exhaustion Defines Proteostatic Collapse**  
 
 ## License
 
